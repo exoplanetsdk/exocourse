@@ -1,4 +1,4 @@
-# exocourse
+# Exoplanet Course at DTU Space
 Exoplanet Course at DTU Space
 
 
